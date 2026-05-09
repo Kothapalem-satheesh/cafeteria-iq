@@ -1,0 +1,6 @@
+cluster_label,persona_name,customers,recommendations
+2,Lunch Regulars,375,Introduce lunch combo offers and pre-order discounts.
+1,Occasional Buyers,222,Push premium add-ons and dessert upsells.
+0,Occasional Buyers,163,Maintain current mix and test small A/B promotional campaigns.
+3,High Value Loyalists,158,Introduce lunch combo offers and pre-order discounts. Run weekend-only bundles and family packs. Push premium add-ons and dessert upsells. Monitor unusual behavior and verify edge cases in transactions.
+4,High Value Loyalists,82,Run weekend-only bundles and family packs. Push premium add-ons and dessert upsells. Monitor unusual behavior and verify edge cases in transactions.

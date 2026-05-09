@@ -1,0 +1,2 @@
+total_records,anomaly_count,anomaly_rate,score_min,score_max,score_mean
+1000,40,0.04,-0.09519725102043419,0.16778821011628026,0.0849140981281342

@@ -1,0 +1,5 @@
+model,silhouette,davies_bouldin,calinski_harabasz,n_clusters,noise_points,params
+KMeans,0.1641393007446278,0.9514048170121446,4.066004471932427,5,0,"{""n_clusters"": 5}"
+DBSCAN,,,,0,15,"{""eps"": 0.9, ""min_samples"": 8}"
+GMM,0.1641393007446278,0.9514048170121446,4.066004471932427,5,0,"{""n_components"": 5}"
+Hierarchical,0.2456205914143604,0.8657925264382804,5.124948288634165,5,0,"{""n_clusters"": 5, ""linkage"": ""ward""}"

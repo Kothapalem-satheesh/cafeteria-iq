@@ -1,0 +1,5 @@
+model,silhouette,davies_bouldin,calinski_harabasz,n_clusters,noise_points,params,rank_silhouette,rank_calinski,rank_davies,rank_sum,model_name,largest_cluster_ratio,balance_penalty,final_score
+KMeans,0.2468781921458189,1.4940632927923096,224.0475010590345,5,0,"{""n_clusters"": 5}",1.0,1.0,3.0,5.0,,,0.0,5.0
+Hierarchical,0.2448321523937948,1.4430577133404046,218.6060514698917,5,0,"{""n_clusters"": 5, ""linkage"": ""ward""}",2.0,2.0,2.0,6.0,Hierarchical,0.345,0.0,6.0
+DBSCAN,0.225460950420911,1.0521143041698788,113.26597212041725,9,317,"{""eps"": 0.9, ""min_samples"": 8}",3.0,4.0,1.0,8.0,,,0.0,8.0
+GMM,0.2219129186693946,1.826420009028627,173.8756478000403,5,0,"{""n_components"": 5}",4.0,3.0,4.0,11.0,,,0.0,11.0

@@ -1,0 +1,5 @@
+{
+  "selected_model": "KMeans",
+  "reason": "Best combined score from clustering metrics and cluster-balance check",
+  "records": 1000
+}

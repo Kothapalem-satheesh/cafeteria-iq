@@ -1,0 +1,10 @@
+{
+  "run_id": "add94e96-c13b-46c3-970d-da86785a1f34",
+  "created_at_utc": "2026-05-08T16:37:52.124662Z",
+  "selected_model": "DBSCAN",
+  "total_customers": 15,
+  "total_clusters": 1,
+  "anomaly_count": 1,
+  "anomaly_rate": 0.06666666666666667,
+  "top_rules_count": 25
+}

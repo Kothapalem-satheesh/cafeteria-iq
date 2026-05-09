@@ -1,0 +1,8 @@
+FINAL RECOMMENDATIONS
+=========================
+
+- Lunch Regulars (cluster 2): Introduce lunch combo offers and pre-order discounts.
+- Occasional Buyers (cluster 1): Push premium add-ons and dessert upsells.
+- Occasional Buyers (cluster 0): Maintain current mix and test small A/B promotional campaigns.
+- High Value Loyalists (cluster 3): Introduce lunch combo offers and pre-order discounts. Run weekend-only bundles and family packs. Push premium add-ons and dessert upsells. Monitor unusual behavior and verify edge cases in transactions.
+- High Value Loyalists (cluster 4): Run weekend-only bundles and family packs. Push premium add-ons and dessert upsells. Monitor unusual behavior and verify edge cases in transactions.

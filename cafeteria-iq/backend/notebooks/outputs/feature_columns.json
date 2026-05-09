@@ -1,0 +1,11 @@
+[
+  "recency_days",
+  "frequency_count",
+  "monetary_total",
+  "avg_order_value",
+  "weekend_ratio",
+  "lunch_ratio",
+  "snacks_ratio",
+  "dinner_ratio",
+  "avg_customer_age"
+]
