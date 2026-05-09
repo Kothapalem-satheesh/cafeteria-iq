@@ -1,0 +1,9 @@
+# Markdown and scripts: normalize line endings so GitHub renders README correctly on all OSes
+*.md text eol=lf
+*.js text eol=lf
+*.jsx text eol=lf
+*.ts text eol=lf
+*.tsx text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
